@@ -1,4 +1,4 @@
-Why Git Makes Development Easier
+# Why Git Makes Development Easier
 
 Git makes software development easier by helping developers track, organize, and manage changes to their code. Instead of manually keeping multiple copies of a project, Git records the history of changes so developers can see what was changed, when it was changed, and who made the change.
 
